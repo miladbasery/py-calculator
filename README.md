@@ -28,5 +28,12 @@ install library
   pip install tkinter
 ```
 
+## Acknowledgements
+
+ - [python v13](https://www.python.org/downloads/release/python-3130/)
+ - [Tkinter](https://docs.python.org/3/library/tkinter.html)
+
+
+
 
 
